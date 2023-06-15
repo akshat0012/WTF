@@ -6,7 +6,7 @@ using namespace std;
  * Maximum Level Sum of Binary Tree
  * Daily leetcode challenge
  * 15 June 23
- * Time Complexity O(N)
+ * Time Complexity O(N).
  */
 
 /*
