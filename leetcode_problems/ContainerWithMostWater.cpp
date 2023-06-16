@@ -1,10 +1,6 @@
-#include <vector>
-#include <iostream>
-#include <algorithm>
-using namespace  std;
 
 /*
- *  Two Pointer Problem
+ *  Two Pointer Approach
  *  O(N)
  */
 
@@ -31,11 +27,3 @@ public:
         return area;
     }
 };
-
-int main() {
-    Solution problem_1;
-    vector<int> height {1, 8, 100, 2, 100, 4, 8, 3, 7};
-    problem_1.maxArea(height);
-
-    return 0;
-}
