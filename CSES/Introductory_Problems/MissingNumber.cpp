@@ -1,9 +1,5 @@
 #include <bits/stdc++.h>
 using namespace std;
-/*
- * took help -> chatGPT
- * remember-> sum of first natural numbers
- */
 int main() {
     long long int n;
     cin >> n;
