@@ -1,8 +1,3 @@
-#include <iostream>
-#include <queue>
-#include <vector>
-using namespace std;
-
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
@@ -15,19 +10,8 @@ using namespace std;
  * };
  */
 
-struct TreeNode {
-    int val;
-    TreeNode *left;
-    TreeNode *right;
-};
-
-
 class Solution {
-
 private:
-//    static void _front(vector<vector<int>>& outerVector, const vector<int>& value) {
-//        outerVector.insert(outerVector.begin(), value);
-//    }
 public:
     vector<vector<int>> levelOrderBottom(TreeNode* root) {
         // basic Level Order Traversal
