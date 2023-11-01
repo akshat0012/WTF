@@ -1,14 +1,3 @@
-#include <iostream>
-#include <climits>
-#include <queue>
-using namespace std;
-/*
- * Maximum Level Sum of Binary Tree
- * Daily leetcode challenge
- * 15 June 23
- * Time Complexity O(N).
- */
-
 /*
  * Definition for a binary tree node.
  * struct TreeNode {
