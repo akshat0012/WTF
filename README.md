@@ -1,5 +1,5 @@
 # WTF 🗿
-![Static Badge](https://img.shields.io/badge/Leetcode_Problems-49-black?style=for-the-badge&logo=Leetcode&logoColor=black&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Leetcode_Problems-50-black?style=for-the-badge&logo=Leetcode&logoColor=black&labelColor=white)
 
 ![Static Badge](https://img.shields.io/badge/GeeksForGeeks_Problems-2-black?style=for-the-badge&logo=Geeksforgeeks&logoColor=black&labelColor=white)
 
