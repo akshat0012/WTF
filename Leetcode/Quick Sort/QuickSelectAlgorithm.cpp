@@ -1,6 +1,9 @@
 #include <bits/stdc++.h>
 using namespace std;
 // Improvised Quick Select
+
+
+
 int quickSelect(vector<int>& nums, int s, int e, int k) {
     if (s <= e) {
         // <--------Partition Logic--------->
@@ -13,7 +16,7 @@ int quickSelect(vector<int>& nums, int s, int e, int k) {
                 swap(nums[i], nums[pivotIndex]);
                 pivotIndex ++;
             }
-        }
+      }
         swap(nums[pivotIndex], nums[e]);
 
         //<------- main Logic----------------->
